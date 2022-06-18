@@ -1,5 +1,7 @@
 import {{ componentName }} from "./Component";
 
-export {{ componentName }};
+export {
+    {{ componentName }}
+};
 
 export default {{ componentName }};
