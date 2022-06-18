@@ -1,3 +1,5 @@
-import Component from "./Component";
+import {{ componentName }} from "./Component";
 
-export default Component;
+export {{ componentName }};
+
+export default {{ componentName }};
